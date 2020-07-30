@@ -1,2 +1,2 @@
-# A-Star-two-link-robot
-Course project
+# Course project
+Implementation of A-star algorithm for two-link robot manipulator.
